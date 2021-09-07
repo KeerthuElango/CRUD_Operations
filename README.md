@@ -2,17 +2,17 @@
 **Performing CRUD operations on table using spring boot**
 
 **TABLE STRUCTURE :**
+Details of shoes:
 int id, String brand, String type, String name, int size, float price, int units
 
 **FUNCTIONS THAT CAN BE PERFORMED:**
-Add an entry to db: Enter new shoe data in the table 
-
-View the entire table: Data of the entire table is viewed 
-View data filtered by brand: Data of the table is displayed  
-View data filtered by name, 
-View data filtered by type,
-View data filtered by size, 
-Delete a row by id, 
-Update the price by id, 
-Update the units by id, 
-Purchase an item
+createShoe - To add details of the shoe to the database
+viewShoes - To view all the shoes available
+viewShoesByBrand - To filter shoes based on brand
+viewShoesByName - To filter shoes based on name
+viewShoesByType - To filter shoes based on type
+viewShoesBySize - To filter shoes based on size
+deleteShoe - To delete a particular shoe available on the table
+updateShoePrice - To update price of a particular available shoe
+updateShoeUnits - To update units of a particular available shoe
+purchaseShoe - To purchase a particular shoe
