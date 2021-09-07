@@ -1,4 +1,4 @@
-# CRUD_Operstions
+# CRUD_Operations
 **Performing CRUD operations on table using spring boot**
 
 **TABLE STRUCTURE :**
