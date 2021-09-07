@@ -5,9 +5,10 @@
 int id, String brand, String type, String name, int size, float price, int units
 
 **FUNCTIONS THAT CAN BE PERFORMED:**
-Add an entry to db, 
-View the entire table, 
-View data filtered by brand, 
+Add an entry to db: Enter new shoe data in the table 
+
+View the entire table: Data of the entire table is viewed 
+View data filtered by brand: Data of the table is displayed  
 View data filtered by name, 
 View data filtered by type,
 View data filtered by size, 
