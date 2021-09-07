@@ -2,10 +2,13 @@
 **Performing CRUD operations on table using spring boot**
 
 **TABLE STRUCTURE :**
+
 Details of shoes:
+
 int id, String brand, String type, String name, int size, float price, int units
 
 **FUNCTIONS THAT CAN BE PERFORMED:**
+
 createShoe - To add details of the shoe to the database
 
 viewShoes - To view all the shoes available
