@@ -1,5 +1,5 @@
 # CRUD_Operstions
-**Performing CRUD operations using spring boot**
+**Performing CRUD operations on table using spring boot**
 
 **TABLE STRUCTURE :**
 int id, String brand, String type, String name, int size, float price, int units
